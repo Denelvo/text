@@ -768,7 +768,7 @@ Verstuurd vanaf iPot."
 "Ik help mijn lief TWEE broeken AAN te trekken. Ik ben slecht bezig." 
 -----------------------------
 [Walibur] 
-"Ah den Tinus Tussengas, daâ€™s ne goeie maat van An GryLaps ook!" 
+"Ah den Tinus Tussengas, da's ne goeie maat van An GryLaps ook!" 
 [Martin] 
 "Die is trouwens historisch bekend als MARTINUS Tussengas." 
 -----------------------------
@@ -784,7 +784,7 @@ Verstuurd vanaf iPot."
 "Ik moet ook bevallen, een getint prematuurtje, als 't kan zwemmen hou ik het!" 
 -----------------------------
 [PaardenBeffer] 
-"DiÃ«ten is inefficiÃ«nt, niet eten is beter en dodelijker. EthiopiÃ«rs weten dat al jaaaaaaaren."
+"Diëten is inefficiënt, niet eten is beter en dodelijker. Ethiopiërs weten dat al jaaaaaaaren."
 -----------------------------
 [Wapiti] 
 "'Tapiol' is een samentrekking van 'tapette' en 'janol'." 
@@ -827,7 +827,7 @@ te moeten betalen!"
 klagen!" 
 -------------------------- 
 [PaardenBeffer]
-"Een MacBook Pro kost 1279â‚¬. Gay zijn is duur!"
+"Een MacBook Pro kost 1279€‚¬. Gay zijn is duur!"
 [Gonzo]
 "Gay?  Gij hebt duidelijk begin '90 niet meegemaakt, toen Morrissey god was en het niet eens opviel dat George Michael een janet was."
 -------------------------------
@@ -907,7 +907,7 @@ ambtenaar, recht evenredig met het aantal strepen ze hadden tijdens het communis
 "Als de bosjes getrimd zijn, lijken de bomen langer." 
 --------------------------------
 [Dessel] 
-"Ik ga binnenkort op vakantie naar SiciliÃ«." 
+"Ik ga binnenkort op vakantie naar Sicilië." 
 [Koeke] 
 "Pas maar op, de Etna is eergisteren uitgebarsten." 
 [Dessel] 
@@ -931,7 +931,7 @@ all day like your nose."
 [PaardenBeffer]
 "Familiebarbecue zuigt de pieren uit de grond!"
 --------------------------------
-[ThaÃ¯sa]
+[Thaïsa]
 "Tessa is mijn pornonaam.
 --------------------------------
 [Tessa]
@@ -970,7 +970,7 @@ de missionarishouding predikt en fellatio verbiedt."
 "Wikipedia!"
 --------------------------------
 [Chambrant]
-"Een paar is 4 bij mij hÃ©!"
+"Een paar is 4 bij mij hé!"
 --------------------------------
 [Fritz]
 "Ik ben toch de wiggerste van de groep."
@@ -1102,7 +1102,7 @@ vrouw ondertussen nog gepoept hebben zonder dat ik het gezien heb, en daar kan i
 "Heb last van mijnen hiel en moet dus op de bal van mijne voet steunen. Ik heb dus minder pijn als ik op mijn ballen loop!" 
 ---------------------------------
 [Gonzo, Val Thorens 2010]
-"Dat is geen avance, skiÃ«n in een sneeuwstorm. Het enige dat je daarmee kan bereiken is binnen 3000 jaar weergevonden worden, perfect 
+"Dat is geen avance, skiën in een sneeuwstorm. Het enige dat je daarmee kan bereiken is binnen 3000 jaar weergevonden worden, perfect 
 
 geconserveerd, en in een museum belanden."
 ---------------------------------
@@ -1130,7 +1130,7 @@ geconserveerd, en in een museum belanden."
 "Gegarandeerd vermeerdering van het aantal bruine strepen in uw broek!"
 ---------------------------------
 [Freud]
-"Mes spermatozoÃ¯des sont aggressifs!"
+"Mes spermatozoïdes sont aggressifs!"
 ---------------------------------
 [Anoniem]
 "Toppunt van jetlag: uw ochtenderectie in de namiddag krijgen."
@@ -1148,9 +1148,7 @@ geconserveerd, en in een museum belanden."
 "Als deze race nu enkel voor de Belgen was dan zou het de BIR genoemd hebben. De Belgian Indoor Race."
 ---------------------------------
 [Elvo, Oz 2009]
-"Ik heb ontdekt dat mijn eigen onnavolgbare stijl perfect combineerbaar is met de alomtegenwoordige janettenstijl. Ik noem het: De onnavolgbare 
-
-Janettenstijl."
+"Ik heb ontdekt dat mijn eigen onnavolgbare stijl perfect combineerbaar is met de alomtegenwoordige janettenstijl. Ik noem het: De onnavolgbare Janettenstijl."
 ---------------------------------
 [Flipside, Oz 2009, tijdens een sneeuwstorm]
 "Hey, waar is de wereld naartoe?"
@@ -1161,14 +1159,13 @@ Janettenstijl."
 "Hoemen?"
 [Janus]
 "Hoemen is fanatiek bezig zijn met werktuigbouwkundig materiaal. Een moer fanatiek aandraaien is aanhoemen. Een boom fanatiek doorzagen is 
-
 doorhoemen. Uithoemen, inhoemen,..."
 [Elvo]
 "Afhoemen!"
 [Janus]
 "Da's geen werktuig!"
 [Elvo]
-"Da's hÃ©t werktuig om vrouwen te bevredigen!"
+"Da's hét werktuig om vrouwen te bevredigen!"
 ---------------------------------
 [Ellis]
 "I get my best ideas on the shitter at work!"
@@ -1180,7 +1177,6 @@ en in zo een klooster is bitter weinig te zien/doen. Nu staat het net vol materi
 "Het is te gemakkelijk geworden eigenlijk. Binnenkort nog eens een back-to-the-roots stalk-actie doen."
 [Vetzak 3]
 "Back to the roots. Den tijd toen ge om goed te stalken nog uurschema's van buiten moest kennen, en de uren van de bus. Uw conditie en uwe 
-
 fiets moest onderhouden..."
 ---------------------------------
 [Stef]
@@ -1196,7 +1192,7 @@ fiets moest onderhouden..."
 "Ik heb geen vrienden. Enkel mensen die me nog niet goed kennen, en dus nog niet rot tegen me doen."
 ---------------------------------
 [Cooper]
-"Ik vind zwaffelen een heel moeilijke barriÃ¨re om te doorbreken."
+"Ik vind zwaffelen een heel moeilijke barrière om te doorbreken."
 ---------------------------------
 [Elvo]
 "Stinkie Winkie is de bruine TeleTubbie."
@@ -1205,7 +1201,7 @@ fiets moest onderhouden..."
 "Een gegeven paard mag men niet in de bek schijten."
 ---------------------------------
 [Vero]
-"Jong geleerd is ... euhh... is goed hÃ©!"
+"Jong geleerd is ... euhh... is goed hé!"
 ---------------------------------
 [Lynn]
 "En Argentina, jamon es un vegetal!"
@@ -1417,7 +1413,7 @@ met een kluitje. Wat kan ik daar in Godsnaam gaan doen?"
 "Het bijltje neerleggen."
 --------------------------------------
 [Freud]
-"J'ai mis un short. Pour faire respirer les cacahuÃ¨tes."
+"J'ai mis un short. Pour faire respirer les cacahuètes."
 --------------------------------------
 [Anoniem]
 "Je vais une fois bien faire de mon cul!"
@@ -1514,7 +1510,7 @@ met een kluitje. Wat kan ik daar in Godsnaam gaan doen?"
 [Sweintje]
 "Da's een heel nare buurt hoor. Als er ineens tien Marokkanen naast je staan met een mes, da's heel beangstigend."
 [Elvo]
-"Als er ineens Ã©Ã©n Elvo naast je staat, met een staalharde ochtenderectie, da's ook heel beangstigend."
+"Als er ineens één Elvo naast je staat, met een staalharde ochtenderectie, da's ook heel beangstigend."
 ----------------------------------------
 [Liesje]
 "Ge moet daar gewoon aan blijven trekken en als da niet lukt ne keer goed uw tanden inzetten."
@@ -1650,7 +1646,7 @@ pompt uw bloed naar verkeerde lichaamsdelen. Dat is een constructiefout, denk ik
 ----------------------------------------
 [Elvo]
 "We hebben ons eigen in ons gat geneukt."
-[JoÃ«lla]
+[Joëlla]
 "Dat vereist wel lenigheid."
 ----------------------------------------
 [Elvo]
@@ -1667,7 +1663,6 @@ pompt uw bloed naar verkeerde lichaamsdelen. Dat is een constructiefout, denk ik
 Wel sexloos saxen of saxloos sexen en zelfs sex- en saxloos whateveren.
 Wel een sexy saxensectie.
 Wel een harmonie waar een te veel aan uitwisselingssex voor uitdunningsverschijnselen zorgt ... EN daar is, niet toevallig, geen enkele 
-
 saxofonist of sax bij betrokken."
 ----------------------------------------
 [KBC Snookertornooi]
@@ -1705,7 +1700,6 @@ saxofonist of sax bij betrokken."
 ----------------------------------------
 [Anoniem]
 "Een trioke is zoals... kansberekening. 1 Element meer en ge zit ineens met een faculteit factor meer opties. Bijvoorbeeld: ge kunt volledig 
-
 legitiem uwe piemel ergens steken, en terwijl aan iemand anders aan 't denken zijn, in full color en in live weergave!"
 ----------------------------------------
 [Elvo, KBC]
@@ -2503,9 +2497,7 @@ look like an idiot in the morning."
 "Ik ga een ObÃ©lix humpen!"
 -----------------------------------------
 [De Heilige Geest]
-"Nee, ik verzet mijn auto niet. Omdat het een stomme spaghettifretter is. Italianen die moeten niet met auto's rijden, die moeten spaghetti 
-
-fretten!"
+"Nee, ik verzet mijn auto niet. Omdat het een stomme spaghettifretter is. Italianen die moeten niet met auto's rijden, die moeten spaghetti fretten!"
 -----------------------------------------
 [KBC, GB]
 "Ik schrijf 'Spare_Ribs' in plaats van 'Spare_Disks'."
@@ -2666,7 +2658,7 @@ erectiestoornissen. Google is toch niet meer wat het geweest is."
 "Die sportsloefen zijn om weg te lopen van The Fashion Police." 
 --------------------------------------------
 [KBC, AVM]
-"Dat veld is niet geÃ¯temizedlistiseerd." 
+"Dat veld is niet geïtemizedlistiseerd." 
 --------------------------------------------
 [Elvo]
 "Oostenrijk is het Limburg van Duitsland. Maar daar zijn ze zo slim geweest van er een apart land van te maken."
@@ -2753,8 +2745,7 @@ erectiestoornissen. Google is toch niet meer wat het geweest is."
 "Ja, maar dan kunnen we iemand in stijl lappen verkopen. Met een pirouette enzo."
 --------------------------------------------
 [Bacchus]
-"Je hebt in feite maar 3 zinnen nodig om met een vrouw te praten: 'Zwijg vrouw!', 'En dan?', en 'Ga weg!'. Probeer maar eens, zeg maar eens 
-
+"Je hebt in feite maar 3 zinnen nodig om met een vrouw te praten: 'Zwijg vrouw!', 'En dan?', en 'Ga weg!'. Probeer maar eens, zeg maar eens
 iets."
 [Elvo]
 "Jamaar, ik ben geen vrouw."
@@ -2997,9 +2988,7 @@ die maat gewoon van te trekken."
 [KBC, GB]
 "Ik wil 'SELECT' typen, en ik typ 'SLET'." 
 [KBC, PN]
-"Dat is nog niks. Ik typte 'speculoos', en word aanvaardde dat niet. En stelde als vervanging 'sexloos' voor. Maar dat was voor in een lijst om 
-
-mee op reis te nemen, en 'sexloos' wou ik niet meenemen op reis."
+"Dat is nog niks. Ik typte 'speculoos', en word aanvaardde dat niet. En stelde als vervanging 'sexloos' voor. Maar dat was voor in een lijst om mee op reis te nemen, en 'sexloos' wou ik niet meenemen op reis."
 --------------------------------------------
 [KBC, GB]
 "Jaja, zo gaat dat tegenwoordig; als je nu nog een spannerke wil, moet je na de plechtige communie eens langsgaan."
@@ -3016,7 +3005,7 @@ mee op reis te nemen, en 'sexloos' wou ik niet meenemen op reis."
 [Servo]
 "Die is nog zieliger als den Elvo."
 [Elvo]
-"ZÃ©Ã©Ã©ker!"
+"Zéééker!"
 --------------------------------------------
 [Servo]
 "Mijn benen zijn helemaal geneteld."
@@ -3046,9 +3035,9 @@ mee op reis te nemen, en 'sexloos' wou ik niet meenemen op reis."
 [PK]
 "Er macht prothesen: Armen, Beine, ... "
 [De Heilige Geest]
-"Frag mal das er fÃ¼r Danny ein Arsch macht."
+"Frag mal das er für Danny ein Arsch macht."
 [EK]
-"Ja, Ã©Ã©n met een nieuw jointke!"
+"Ja, één met een nieuw jointke!"
 --------------------------------------------
 [Tsjilp]
 "Die gore, die komt niet naar de fitness om aan haar figuur te werken, die komt om meer kracht te kunnen zetten tijdens het neuken! "
@@ -3076,9 +3065,7 @@ mee op reis te nemen, en 'sexloos' wou ik niet meenemen op reis."
 [KBC, DVD]
 "Zeg, die Marc De Pauw, bestaat die eigenlijk wel?"
 [KBC, FT]
-"Neen, dat is onze manier om iemand professioneel het bos in te sturen: dan zeggen wij gewoon 'Vraag het aan Marc De Pauw.', en dan zijn die 
-
-mannen minstens 3 dagen bezig met die te zoeken."
+"Neen, dat is onze manier om iemand professioneel het bos in te sturen: dan zeggen wij gewoon 'Vraag het aan Marc De Pauw.', en dan zijn die mannen minstens 3 dagen bezig met die te zoeken."
 [KBC, Elvo]
 "Marc De Pauw is onze /dev/null voor lastige vragen."
 -----------------------------------
@@ -3095,7 +3082,7 @@ mannen minstens 3 dagen bezig met die te zoeken."
 "Ik heb er hier ene geknuffeld in plaats van genegeerd."
 -----------------------------------
 [Elvo]
-"Een orgie op uwen allene is geen orgie hÃ©, dat is masturbatie."
+"Een orgie op uwen allene is geen orgie hé, dat is masturbatie."
 -----------------------------------
 [Elvo]
 "Ah, jij bent ook linksdragend?!"
@@ -3182,9 +3169,7 @@ mannen minstens 3 dagen bezig met die te zoeken."
 "Het tiert welig."
 -----------------------------------
 [Tsjilp, over MP3s]
-"Weet je wat ik de max vind? Je zegt een titel en 50 seconden later heb ik dat. En ik heb niet betaald, en ik ben niet uit mijn kot geweest. En 
-
-het beste: we vinden dat prachtig." 
+"Weet je wat ik de max vind? Je zegt een titel en 50 seconden later heb ik dat. En ik heb niet betaald, en ik ben niet uit mijn kot geweest. En het beste: we vinden dat prachtig." 
 -----------------------------------
 [?]
 "'I stand corrected!' said the man in orthopedic shoes."
@@ -3276,9 +3261,7 @@ het beste: we vinden dat prachtig."
 "Bedsport is ook sport."
 -----------------------------------
 [KBC, Elvo, op een stresserende moment]
-"We zouden een 'Ignore List' moeten hebben. Voor onze Mail en MEMO. Dan kunnen we de JM daarin zetten. Het leven zou ineens een pak rustiger 
-
-zijn."
+"We zouden een 'Ignore List' moeten hebben. Voor onze Mail en MEMO. Dan kunnen we de JM daarin zetten. Het leven zou ineens een pak rustiger zijn."
 [KBC, FT]
 "We zouden onszelf op 'Invisible' moeten kunnen zetten."
 -----------------------------------
@@ -3339,7 +3322,6 @@ zijn."
 -------------------------------------
 [Elvo]
 "Dat is natuurlijk wel 1 van de voordelen van in een hotel te zitten dat uitgebaat is door 2 homo's: je kan er zeker van zijn dat het 
-
 toiletpapier super deluxe vierdubbeldik superzacht is. 
 -------------------------------------
 [KBC, FT, browsing subnets]
@@ -3407,9 +3389,7 @@ toiletpapier super deluxe vierdubbeldik superzacht is.
 ---------------------------------------
 [Elvo]
 "Vrienden voeren u zat. Echte vrienden voeren u nog zatter, houden u vast als je in 't WC aan 't spouwen  bent, ondersteunen u zodat je niet op 
-
 uw kloten slaagt op de trap, voeren u naar huis, en noteren al het  grappige wat je gezegd hebt voor de Quotefile zodat je nadien nog weet hoe 
-
 grappig je was."
 ---------------------------------------
 [KBC, CR]
@@ -3459,9 +3439,7 @@ grappig je was."
 "Ah, mijn PC praat Romeins tegen mij."
 --------------------------------------
 [KBC, FT]
-"Op een Vrijdagnamiddag om 15u nog een boom opzetten over SWAP-functionaliteit, pfff. De enige SWAP  functionaliteit waar ik het nu nog over 
-
-wil hebben is de SWAP van de werkweek voor het weekend."
+"Op een Vrijdagnamiddag om 15u nog een boom opzetten over SWAP-functionaliteit, pfff. De enige SWAP  functionaliteit waar ik het nu nog over wil hebben is de SWAP van de werkweek voor het weekend."
 --------------------------------------
 [KBC, Elvo]
 "Polaris klinkt zo koud, en Solaris klinkt zo warm."
@@ -3509,18 +3487,13 @@ wil hebben is de SWAP van de werkweek voor het weekend."
 --------------------------------------
 [PL/SQL Tutor]
 "Er is een screensaver, dat is zo een vissenbak super gedetailleerd, met broebelkens en planten enzo, daar heb je een goede grafische kaart 
-
 voor nodig om die te kunnen draaien. Als die opspringt, die neemt 100% CPU in beslag, en je kan daar regelmatig nieuwe vissen voor downloaden."
 --------------------------------------
 [PL/SQL Tutor]
-"Als de user noemt 'HUP_HUPPELDEPUP', en de procedure 'FOEF_FOEFELDEFOEF', met 20 underscores en 5 dollartekens in, dan heb ik niet veel zin om 
-
-dat in te typen."
+"Als de user noemt 'HUP_HUPPELDEPUP', en de procedure 'FOEF_FOEFELDEFOEF', met 20 underscores en 5 dollartekens in, dan heb ik niet veel zin om dat in te typen."
 --------------------------------------
 [Elvo]
-"So, in conclusion, on a scale from one to ten, one being the lowest, ten being the highest, and FIIIIIIIVE being average, I give this joke a 
-
-one!"
+"So, in conclusion, on a scale from one to ten, one being the lowest, ten being the highest, and FIIIIIIIVE being average, I give this joke a one!"
 --------------------------------------
 [Servo]
 "Stel dat mijn dochter later last heeft met iemand zoals ik..."
@@ -3656,7 +3629,7 @@ one!"
 "Ik wil alleen de Gawepoep'n-verhalen horen!"
 --------------------------------------
 [KBC, RM]
-"Ik ga hier donner la pipe Ã  Martin."
+"Ik ga hier donner la pipe à Martin."
 --------------------------------------
 [Vosse]
 "HEE mannen! 't Is nog chill time!"
@@ -3716,9 +3689,7 @@ one!"
 "Hey mannen, wat is 'een bak bier' in 't Frans?"
 --------------------------------------
 [Elvo]
-"'t Probleem met meisjes is dat ze meestal niet doen wat ze zeggen, en niet zeggen wat ze willen. En ook dat ze ni zeggen wat ze op een ander 
-
-moment in de tijd zeggen. En in de wereld van de man zijn tijd, actie en vrouw variabel."
+"'t Probleem met meisjes is dat ze meestal niet doen wat ze zeggen, en niet zeggen wat ze willen. En ook dat ze ni zeggen wat ze op een ander moment in de tijd zeggen. En in de wereld van de man zijn tijd, actie en vrouw variabel."
 --------------------------------------
 [VDW]
 "Ik kan toch 2 zinnen zeggen tegen een meisje zonder dat ze bleitend wegloopt."
@@ -3807,9 +3778,7 @@ leugen nog zo snel, de waarheid achterhaalt hem wel' moet er ZEKER inkomen. Desn
 ---------------------------------------
 [Bacchus, na respectievelijk 3 en 5 pinten]
 "Verdomme dat is hier warm, ik had beter mijn korte broek aangedaan om naar den Boesj te komen."
-"Dat systeem met die bloedgroepen, volgens mij is dat zever; ik heb nu A negatief, maar volgens mij kan ik alles krijgen zolang er maar genoeg 
-
-alcool inzit."
+"Dat systeem met die bloedgroepen, volgens mij is dat zever; ik heb nu A negatief, maar volgens mij kan ik alles krijgen zolang er maar genoeg alcool inzit."
 ---------------------------------------
 [DÃ© Visser, na respectievelijk 3 en 7 Km joggen]
 "Ik hoop dat ik in 't water mag sterven, dan ziet niemand het niet als ik in m'n broek pis!"
@@ -3839,9 +3808,7 @@ alcool inzit."
 "Hebben ze nog gebeld van de pornosite?"
 ----------------------------------------
 [Aikman]
-"Ik heb den Boter zijn homepage veranderd in www.reetatleet.pot. Dat was daarvoor www.fanpages.com/backstreetboys. En zijn email address was 
-
-MCboter@hotmail.com, dat heb ik veranderd in MCpotter@potmail.fag. En nu is 't MCflikker@potmail.bi."
+"Ik heb den Boter zijn homepage veranderd in www.reetatleet.pot. Dat was daarvoor www.fanpages.com/backstreetboys. En zijn email address was MCboter@hotmail.com, dat heb ik veranderd in MCpotter@potmail.fag. En nu is 't MCflikker@potmail.bi."
 ----------------------------------------
 [De Heilige Geest]
 "HOP HOP HOP ... boven op m'n opblaasPOP!"
@@ -3889,9 +3856,7 @@ MCboter@hotmail.com, dat heb ik veranderd in MCpotter@potmail.fag. En nu is 't M
 "Van de vierentwintigste keer lukt het van de eerste keer."
 ----------------------------------------
 [FT, KBC, tegen een nieuweling]
-"Hij heeft een lease gekregen tot 1 januari 1901. Dan moeten we eerst tot het einde der tijden gaan, dan terug opnieuw beginnen, en dan terug 
-
-tot 1901. Dat gaat dus nog heel lang duren."
+"Hij heeft een lease gekregen tot 1 januari 1901. Dan moeten we eerst tot het einde der tijden gaan, dan terug opnieuw beginnen, en dan terug tot 1901. Dat gaat dus nog heel lang duren."
 ---------------------------------------
 [KL, KBC]
 "Databanken groeien niet aan de bomen."
@@ -4013,10 +3978,7 @@ AMBIANCE!..."
 ----------------------------------------
 [FT, KBC]
 "Die packagers zijn zo flexibel als betonijzer: je moet niet alleen zeggen wat ze moeten doen, je moet ook zeggen wat ze *niet* moeten doen. 
-
-Als ze op 'D' moeten duwen moet je zeggen:"Duw op 'D', die staat op uw keyboard tussen de 'S' en de 'F', en dan moet je zeggen dat ze niet op 
-
-de 'S' en niet op de 'F' moeten drukken, EN hoe ze het kunnen ongedaan maken als ze toch op de 'S' of de 'D' gedrukt hebben."
+Als ze op 'D' moeten duwen moet je zeggen:"Duw op 'D', die staat op uw keyboard tussen de 'S' en de 'F', en dan moet je zeggen dat ze niet op de 'S' en niet op de 'F' moeten drukken, EN hoe ze het kunnen ongedaan maken als ze toch op de 'S' of de 'D' gedrukt hebben."
 [JM]
 "Ja, inderdaad; moest hier een vliegtuig tegen het gebouw vliegen ,dat zou gewoon blijven staan, en die packagers ook."
 -----------------------------------------
@@ -4120,9 +4082,9 @@ Minder gezaag, meer gedrink! ...  ... 't Gezaag zal wal automatisch komen, dan."
 "We zullen dat water hier es verdunnen zie!"
 ------------------------------------------
 [Bacchus, over plas- en poepsex]
-"Ik ga straks ne goeien brÃ´ane leggen."
+"Ik ga straks ne goeien broâne leggen."
 [VDW]
-"Wat? Ne goeien brÃ´ane, dat bestaat niet!"
+"Wat? Ne goeien broâne, dat bestaat niet!"
 ------------------------------------------
 [VDW, over een meisje van 1m80]
 "Die kunt ge tussen 't bed en 't plafond spannen!"
@@ -4173,7 +4135,7 @@ Minder gezaag, meer gedrink! ...  ... 't Gezaag zal wal automatisch komen, dan."
 .......
 "Die daar naast die boekenwinkel is naar 't schijnt een homo."
 [J.]
-"Merci hÃ©, da's mijn nonkel."
+"Merci hé, da's mijn nonkel."
 ------------------------------------------
 [Servo]
 "Trekken is ook geen sport, dat is een hobby."
@@ -4204,7 +4166,7 @@ Minder gezaag, meer gedrink! ...  ... 't Gezaag zal wal automatisch komen, dan."
 "Amai,... wij praten geen Frans met haar op; wij praten Frans met *schaamhaar* op!"
 ------------------------------------------
 [Bacchus, omdat zijn agende ondersteboven was opengevallen]
-"Februari achterstevoren is IraÃ»rbef!"
+"Februari achterstevoren is Iraûrbef!"
 ------------------------------------------
 [?, tegen iemand met een openluchtzwembad]
 "Ik heb ook een openluchtzwembad. In de Zomer, als ik het opblaas."
@@ -4334,9 +4296,7 @@ krijgt ge nog geen reactie."
 "Ja.....Allez..."
 ------------------------------------------
 [Prof Computerarchitectuur, ratelend tegen 200 woorden/minuut]
-"Tussen de eerste en de vierde cycle zitten 2 cycles tussen, dus daar is er geen probleem, maar tussen de eerste en de derde cycle zitten maar 
-
-2 cycles tussen, dus daar kom je in de problemen..."
+"Tussen de eerste en de vierde cycle zitten 2 cycles tussen, dus daar is er geen probleem, maar tussen de eerste en de derde cycle zitten maar 2 cycles tussen, dus daar kom je in de problemen..."
 ------------------------------------------
 [Mijn eindwerkpromotor, tevens UNIX-nut en M$-hater, toen ik hem een (M$-formatted) diskette gaf met thesis.doc op]
 "Wat moet ik hiermee doen? Eens naar 't licht houden?"
@@ -4383,8 +4343,7 @@ krijgt ge nog geen reactie."
 "Love thy neighbour as thy self. What am I supposed to do? Jerk him off too?????"
 ------------------------------------------
 [Elvo, op de demo van zijn thesis] 
-"Een JavaScript functie zorgt ervoor dat je de grote versie te zien krijgt van het klein gifje waar je op geklikt hebt, en niet Ã©Ã©n of 
-
+"Een JavaScript functie zorgt ervoor dat je de grote versie te zien krijgt van het klein gifje waar je op geklikt hebt, en niet één of 
 ander...ander." 
 ------------------------------------------
 [F., moest een harde volleybalopslag opvangen]
@@ -4426,9 +4385,7 @@ ander...ander."
 "Laat ons gewoon zeggen dat u gewoon zegt dat u gewoon een generator neemt van..."
 ------------------------------------------
 [GDB, tijdens de pauze]
-"Ik wil de klas in*gedragen* worden, door twee negers, op zo een draagstok, met watten tussen mijn tenen. En terwijl moet er een Chinese aan 
-
-mijn teennagels bezig zijn."
+"Ik wil de klas in*gedragen* worden, door twee negers, op zo een draagstok, met watten tussen mijn tenen. En terwijl moet er een Chinese aan mijn teennagels bezig zijn."
 ------------------------------------------
 [Aikman]
 "Ik ga pol & sjnok doen in de RUCA!"
@@ -4514,9 +4471,7 @@ We gaan een film maken:"Look Who's Stalking". En ik speel de hoofdrol!"
 "Alenia Quadrics, CPP, DAP, GammaII,.. dat gaat ge niet direct in de Makro vinden."
 -------------------------------------------
 [Prof webtech]
-"Bij 4 parallelle pipelines en 4 stages hebt ge 16 instructies in huis. Bij 10 pipes en 10 stages 100. Als ge regelmatig uit de bol gaat met uw 
-
-branch prediction, dan is uw penalty veel te groot."
+"Bij 4 parallelle pipelines en 4 stages hebt ge 16 instructies in huis. Bij 10 pipes en 10 stages 100. Als ge regelmatig uit de bol gaat met uw branch prediction, dan is uw penalty veel te groot."
 -------------------------------------------
 [Prof webtech]
 "We kennen de  /var al van  /var/apache, dus dat blijft in de familie."
@@ -4605,7 +4560,7 @@ aantrekkelijkheid)]
 [Aikman]
 "Probeer eens op www.(laat een luide boer vlak in mijn oor).com!"
 --------------------------------------------
-[DÃ© Visser, allitererend]
+[Dé Visser, allitererend]
 "Die Dwaze Dwerg is daar weer."
 --------------------------------------------
 [Aikman, een straatnaambord lezend]
@@ -4618,21 +4573,20 @@ aantrekkelijkheid)]
 --------------------------------------------
 [Bacchus, over talen en meisjes op congÃ©]
 "Spaans en Italiaans, dat spreekt ge natuurlijk juist ni, Engelse en Franse zijn over 't algemeen superlelijk. Het beste dat ge nog kunt 
-
 bereiken is een Hollandse. Ik zeg het: de talen die knappe meiskes spreken, die spreken wij juist niet."
 --------------------------------------------
 [Fab, om duidelijk te maken dat een lange wielbasis een wagen te stabiel en sloom maakt]
 "C'est bateau."
 --------------------------------------------
 [EK 2001, Fab over vaders die stressen voor een belangrijke race]
-"Mais c'est con; stresse aprÃ¨s!"
+"Mais c'est con; stresse après!"
 --------------------------------------------
 [EK 2001, SideShow over een afdruk van mijn onderrug]
 "Zeg Elvo, uw hol is ook niet consistent afgerond hÃ©?"
 --------------------------------------------
 [EK 2001, un Commingeois]
-"BonjÃ¢Ã¢r."
-(opmerking: de Commingeois zijn voor Frankrijk wat de Limburgers zijn voor BelgiÃ«)
+"Bonjââr."
+(opmerking: de Commingeois zijn voor Frankrijk wat de Limburgers zijn voor België)
 --------------------------------------------
 [EK 2001, CD]
 "Ik zeg wa's da? Zes Coca's en ne Spa!"
@@ -4653,9 +4607,7 @@ bereiken is een Hollandse. Ik zeg het: de talen die knappe meiskes spreken, die 
 "Ik ben JO, en aflitsen doe ik ZO: lits... lits... lits..."
 --------------------------------------------
 [EK 2001, Een Brit]
-"I wanted to yell 'Bastard' or 'Arsehole' at this guy, but I was afraid the ref might hear it, so I said something really stupid. I think it 
-
-was 'Bananahead' or something. I felt like a plonker. After that, I couldn't concentrate on my driving anymore, because I felt so stupid."
+"I wanted to yell 'Bastard' or 'Arsehole' at this guy, but I was afraid the ref might hear it, so I said something really stupid. I think it was 'Bananahead' or something. I felt like a plonker. After that, I couldn't concentrate on my driving anymore, because I felt so stupid."
 --------------------------------------------
 [?, over de kurk in flesjes Kriek]
 "Moet ik dat daaruit zuigen of wat?"
